@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Prosper Loan APR Analysis
 
 An end-to-end statistical and machine-learning analysis of Prosper
